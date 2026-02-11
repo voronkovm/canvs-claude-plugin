@@ -9,6 +9,5 @@
   "repository": "https://github.com/voronkovm/canvs-claude-plugin",
   "license": "MIT",
   "keywords": ["canvs", "whiteboard", "diagram", "mermaid", "excalidraw", "drawing"],
-  "skills": "./skills/canvs-skill/.claude/skills/",
   "mcpServers": "./.mcp.json"
 }
