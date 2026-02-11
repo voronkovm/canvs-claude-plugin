@@ -1,5 +1,6 @@
 {
-  "Canvs.io": {
+  "canvs": {
+    "type": "http",
     "url": "https://app.canvs.io/mcp"
   }
 }
