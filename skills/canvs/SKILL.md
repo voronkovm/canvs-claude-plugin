@@ -11,7 +11,7 @@ The user wants: $ARGUMENTS
 
 ## MCP Tools Available
 
-You have access to these Canvs MCP tools (prefixed with `mcp__claude_ai_Canvs_io__`):
+You have access to these Canvs MCP tools (the exact prefix depends on context — look for tools containing "canvs" or "Canvs" in their name):
 
 | Tool | Purpose |
 |------|---------|
