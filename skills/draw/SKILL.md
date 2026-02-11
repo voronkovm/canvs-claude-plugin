@@ -1,5 +1,5 @@
 ---
-name: canvs
+name: draw
 description: Create and manipulate collaborative whiteboards and diagrams using Canvs.io MCP tools. Use when the user asks to draw, diagram, sketch, wireframe, or visualize anything on a canvas.
 user-invocable: true
 argument-hint: "[description of what to draw]"
