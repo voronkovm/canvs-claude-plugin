@@ -1,0 +1,14 @@
+{
+  "name": "canvs",
+  "description": "Create and manipulate collaborative whiteboards and diagrams with Canvs.io",
+  "version": "1.0.0",
+  "author": {
+    "name": "Canvs.io"
+  },
+  "homepage": "https://canvs.io",
+  "repository": "https://github.com/voronkovm/canvs-claude-plugin",
+  "license": "MIT",
+  "keywords": ["canvs", "whiteboard", "diagram", "mermaid", "excalidraw", "drawing"],
+  "skills": "./skills/canvs-skill/.claude/skills/",
+  "mcpServers": "./.mcp.json"
+}
