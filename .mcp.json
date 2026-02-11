@@ -1,6 +1,8 @@
 {
-  "canvs": {
-    "type": "http",
-    "url": "https://app.canvs.io/mcp"
+  "mcpServers": {
+    "canvs": {
+      "type": "http",
+      "url": "https://app.canvs.io/mcp"
+    }
   }
 }
