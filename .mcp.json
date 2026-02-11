@@ -1,7 +1,5 @@
 {
-  "mcpServers": {
-    "Canvs.io": {
-      "url": "https://mcp.canvs.io/mcp"
-    }
+  "Canvs.io": {
+    "url": "https://app.canvs.io/mcp"
   }
 }
