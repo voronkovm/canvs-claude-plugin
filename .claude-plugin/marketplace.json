@@ -9,7 +9,10 @@
   "plugins": [
     {
       "name": "canvs",
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "voronkovm/canvs-claude-plugin"
+      },
       "description": "Create and manipulate collaborative whiteboards and diagrams with Canvs.io",
       "version": "1.0.0",
       "keywords": ["canvs", "whiteboard", "diagram", "mermaid", "excalidraw"]
